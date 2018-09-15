@@ -1,0 +1,15 @@
+.display-4{
+    font-family: 'Bevan', cursive;
+}
+
+body {
+    background-image: url("../images/NYT.png");
+}
+
+form {
+    background:white;
+    padding: 20px;
+    border-color: #5bc0de;
+    border-width: 3px;
+    border-style: solid;
+}
